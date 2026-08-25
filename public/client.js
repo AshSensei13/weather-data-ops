@@ -11,7 +11,7 @@ async function loadWeather() {
             <p>Condition: ${weather.weather[0].description}</p>
         `
     } catch (err) {
-        document.getElementById('weather').innerHTML = '<p> Failed to load weather data/ </p>'
+        document.getElementById('weather').innerHTML = '<p> Failed to load weather data </p>'
         console.log(`Error: ${err}`)
     }    
 }
