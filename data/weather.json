@@ -22,26 +22,26 @@
     "sea_level": 1037,
     "grnd_level": 1018
   },
-  "visibility": 10000,
+  "visibility": 6367,
   "wind": {
-    "speed": 0.97,
-    "deg": 70,
-    "gust": 2.02
+    "speed": 0.82,
+    "deg": 63,
+    "gust": 1.92
   },
   "clouds": {
-    "all": 99
+    "all": 100
   },
-  "dt": 1795818339,
+  "dt": 1795848924,
   "sys": {
     "type": 2,
     "id": 2110006,
     "country": "NO",
-    "sunrise": 1795765349,
-    "sunset": 1795789623
+    "sunrise": 1795851880,
+    "sunset": 1795875932
   },
   "timezone": 3600,
   "id": 3143244,
   "name": "Oslo",
   "cod": 200,
-  "_last_updated_utc": "2026-11-27T22:32:57.284Z"
+  "_last_updated_utc": "2026-11-28T06:58:57.353Z"
 }
